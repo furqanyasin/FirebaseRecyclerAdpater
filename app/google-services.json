@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740612144052",
+    "firebase_url": "https://fir-recycleradapter-f1300.firebaseio.com",
+    "project_id": "fir-recycleradapter-f1300",
+    "storage_bucket": "fir-recycleradapter-f1300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740612144052:android:41c5488bfcf1a95a76d0e1",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecycleradpater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740612144052-e2j2hrnjldg9j9isvn61e1pap8t4unid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8_cx_rc_gOdvvL906QKzJoKGWihlx80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740612144052-e2j2hrnjldg9j9isvn61e1pap8t4unid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
